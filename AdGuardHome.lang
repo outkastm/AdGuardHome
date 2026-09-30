@@ -1,0 +1,103 @@
+[en-us]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[zh-cn]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[zh-hk]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[ja-jp]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[de-de]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[fr-fr]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[it-it]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[es-es]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[ko-kr]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[hu-hu]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[pl-pl]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[ru-ru]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
+
+[tr-tr]
+name = "AdGuardHome"
+auth = "Ad Guard"
+version = "0.107.77.0"
+descript = "Free and open source, powerful network-wide ads & trackers blocking DNS server."
+release_note = "Bundles AdGuard Home v0.107.79 packaged from source"
+important    = ""
