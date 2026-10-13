@@ -1,4 +1,4 @@
-# APPID for TOS
+# AdGuardHome for TOS
 
 
 ## 🛠️ Architecture & Backend Notice
@@ -24,9 +24,9 @@ This application consists of a modern frontend web interface paired with a custo
 ## 🚀 Installation on TerraMaster TOS7
 
 - **TOS7 App Center online version:** 
-1. Search for APPID in App Center.
+1. Search for AdGuardHome in App Center.
 - **TOS7 App Center manual installation:**
-1. Download the latest release `.deb` package from the [Releases page](../../releases) or [TMNASCommunity Downloads](https://tmnascommunity.eu/APPID).
+1. Download the latest release `.deb` package from the [Releases page](../../releases) or [TMNASCommunity Downloads](https://tmnascommunity.eu/AdGuardHome).
 2. Open your TerraMaster NAS web desktop and launch the **App Center**.
 3. Click on **Settings / Install App Manually** and select the downloaded package.
 4. Follow the on-screen prompts to complete the installation.
